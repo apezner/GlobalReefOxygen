@@ -1,15 +1,17 @@
 # *Increasing hypoxia on global coral reefs under warming*
 
-GitHub repository containing code accompanying the global coral reef oxygen manuscript (Pezner et al., 2023; DOI: [TBD])
+GitHub repository containing code accompanying the global coral reef oxygen manuscript (Pezner et al., 2023; https://www.nature.com/articles/s41558-023-01619-2)
 
-**Data Repository DOI:** [TBD]
+**Data Repository DOI:** 
+https://doi.org/10.5061/dryad.41ns1rnj7
 
 **Authors:** Ariel K. Pezner, Travis A. Courtney, Hannah C. Barkley, Wen-Chen Chou, Hui-Chuan Chu, Samantha M. Clements, Tyler Cyronak, Michael D. DeGrandpre, Samuel A. H. Kekuewa, David I. Kline, Yi-Bei Liang, Todd R. Martz, Satoshi Mitarai, Heather N. Page, Max S. Rintoul, Jennifer E. Smith, Keryea Soong, Yuichiro Takeshita, Martin Tresguerres, Yi Wei, Kimberly K. Yates, and Andreas J. Andersson
 
 **Abstract:** Ocean deoxygenation is predicted to threaten marine ecosystems globally. However, current and future oxygen concentrations and the occurrence of hypoxic events on coral reefs remain underexplored. Here, using autonomous sensor data to explore oxygen variability and hypoxia exposure at 32 representative reef sites, we reveal that hypoxia is already pervasive on many reefs. 84% of reefs experienced weak to moderate (≤153 to ≤92 µmol O<sub>2</sub> kg<sup>-1</sup>) hypoxia and 13% experienced severe (≤61 µmol O<sub>2</sub> kg<sup>-1</sup>) hypoxia. Under different climate change scenarios based on 4 Shared Socioeconomic Pathways (SSPs), we show that projected ocean warming and deoxygenation will increase the duration, intensity, and severity of hypoxia, with more than 94% and 31% of reefs experiencing weak to moderate and severe hypoxia, respectively, by 2100 under SSP5-8.5. This projected oxygen loss could have negative consequences for coral reef taxa due to the key role of oxygen in organism functioning and fitness.
 
 
-**Citation:** [TBD]
+**Citation:** 
+Pezner, A.K., Courtney, T.A., Barkley, H.C. et al. Increasing hypoxia on global coral reefs under ocean warming. Nat. Clim. Chang. (2023). https://doi.org/10.1038/s41558-023-01619-2
 
 ---
 
